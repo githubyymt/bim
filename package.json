@@ -1,0 +1,10 @@
+{
+  "name": "bim",
+  "version": "0.0.0",
+  "description": "bim",
+  "main": "server.js",
+  "author": {
+    "name": "Administrator",
+    "email": ""
+  }
+}
